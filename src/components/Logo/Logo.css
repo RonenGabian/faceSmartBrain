@@ -1,0 +1,17 @@
+.tilt{
+    background: linear-gradient(89deg, #FF5EDF 0%, #04c6de 100% );
+    width: 100px;
+    height : 100px;
+}
+
+.imgContainer{
+    width: 100px;
+    height : 100px;
+}
+
+img {
+    width: auto;
+    height : auto;
+    max-height: 100%;
+    max-width: 100%;
+}
